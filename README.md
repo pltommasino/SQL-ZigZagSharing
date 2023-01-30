@@ -1,4 +1,4 @@
-# ZigZag Sharing
+# ZIG ZAG SHARING
 
 I wanted to design and to deploy the database of a **sharing company** for the purpose of supporting the customer app.
 The company has different vehicles and capacities (scooter, scooter, and car), distributed in major Italian cities. 
