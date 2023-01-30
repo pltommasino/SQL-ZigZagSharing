@@ -1,6 +1,6 @@
 # SQL-ZigZagSharing
 
-I wanted to design and to deploy the database of a sharing company for the purpose of supporting the customer app.
+I wanted to design and to deploy the database of a **sharing company** for the purpose of supporting the customer app.
 The company has different vehicles and capacities (scooter, scooter, and car), distributed in major Italian cities. 
 The vehicles are bookable through the app provided to the customer who can define their preferred city and view their ride history. 
 In addition, the app will allow through the selection of the number of passengers to view only the appropriate means, within a radius of 1km.
